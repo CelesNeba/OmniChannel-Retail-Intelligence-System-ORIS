@@ -1,4 +1,4 @@
-# Retail-Sales-Analytics
+# OmniChannel-Retail-Intelligence-System-ORIS
 
 ##  Project Overview
 This project analyzes retail customer transaction data to understand purchasing behavior, identify high-value customers, and support data-driven marketing decisions.
